@@ -1,3 +1,3 @@
 # blog
 
-Blog onde sao apresentados os posts presentes numa base de dados, para tal foi utilizado MongoDB, Mongoose, Node.JS, Express.js, HTML, Css e Bootstrap.
+Blog where the posts are saved in a database. Built with MongoDB, Mongoose, Node.JS, Express.js, HTML, Css e Bootstrap.
